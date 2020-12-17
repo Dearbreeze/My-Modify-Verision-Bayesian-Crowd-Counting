@@ -3,7 +3,7 @@ This is a more convenient version that I modified on BL and provided dataset,The
 
 We provide our generated dataset (currently only ParB) [Baiduyun_link](https://pan.baidu.com/s/1LnBT0gm8bX9JjTee9JaM3A)  Extraction code：tp7i
 
-### Hope to help you,If it is helpful to you, please star this repository,Have a nice day！！！
+### Hope to help you ！！！
 ## Tips:
 
 1. If you need Preprocessing data of Shanghai_ParA ,you can run preprocess_dataset.py .Just change its PartB path to PartA.Other datasets are the same way!
