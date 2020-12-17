@@ -7,4 +7,4 @@ We provide our generated dataset (currently only ParB)[Baiduyun_link](https://pa
 
 1. If you need Preprocessing data of Shanghai_ParA ,you can run preprocess_dataset.py .Just change its PartB path to PartA.Other datasets are the same way!
 
-2. you only need to modify its --data_dir (directory of processed data>) and --save_dir (directory of log and model) in train.py,The method of training model is consistent with the [official version](https://github.com/ZhihengCV/Bayesian-Crowd-Counting)
+2. You only need to modify its --data_dir (directory of processed data>) and --save_dir (directory of log and model) in train.py,The method of training model is consistent with the [official version](https://github.com/ZhihengCV/Bayesian-Crowd-Counting)
